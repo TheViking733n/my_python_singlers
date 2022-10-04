@@ -6,7 +6,7 @@
 
  *  I call a code single liner if its written in one line without using exec() or ;
 
- *  Also, this code for code Pascal Triangle will increase padding between numbers
+ *  Also, this code for Pascal Triangle will increase padding between numbers
     automatically with increase in n
 
 """
